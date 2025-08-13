@@ -1,0 +1,22 @@
+.hero-section {
+  background-size: cover;
+  background-position: center;
+  height: calc(100vh - 128px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.hero-content {
+  padding: 20px;
+}
+
+.title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 90rem;
+  width: 92%;
+}
