@@ -1,0 +1,16 @@
+.education {
+  padding: 2em !important;
+  margin: 0 !important;
+  text-align: center !important;
+  box-shadow: var(--shadow) !important;
+  transition: transform 0.2s linear !important;
+  max-height: 160px !important;
+  min-height: 160px !important;
+}
+
+@media (max-width: 900px) {
+  .education {
+    margin-bottom: 30px !important;
+    max-height: max-content !important;
+  }
+}
