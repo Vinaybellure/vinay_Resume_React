@@ -30,23 +30,20 @@ export const experienceDetails = [
     end: "Current",
     location: "Bengaluru, Karnataka",
     rolesAndResponsibility: [
-      `Led the development of a complex web application, driving architectural decisions and ensuring
-adherence to best coding practices, resulting in a 20% improvement in application performance.`,
-      `Collaborated with Product Managers and UX designers to translate business requirements into technical
-specifications, leading to a 30% reduction in project delivery time.`,
-      `Mentored and guided junior developers, fostering a collaborative and innovative team culture, resulting
-in increased productivity and employee satisfaction.`,
-      `Conducted code reviews to maintain code integrity and enforce coding standards, resulting in a more
-robust and maintainable codebase.`,
-      `Implemented RESTful APIs to integrate the application with third-party services, expanding its
-functionality and customer reach.`,
-      `Worked on a project Web-based Platform alternate for existing Low-Code Platform. The system is
-based on server-client architecture. The server is hosted in Amazon-Cloud. This Tool uses NodeJS as
-back-end and RDS is used for handling DB related Tasks.`,
+      `Played a key role in developing functionalities for a Low Code Platform project.`,
+      `Implemented Database Module in low code platform project and optimised the performance by 20%.`,
+      `Developed reusable Core UI-Components that helped reduce development time by 30%.`,
+      `Localized the React application with react-i18next.`,
+      `Worked on Import/Export operation in database Module and File management.`,
+      `Reduced the load time of the website by developing modular code and configuring Webpack.`,
+      `Implemented Share point APIs (CURD operation) in File management module.`,
+      `Conducted performance audits using tools like Lighthouse and Profiler Insights to identify website
+bottlenecks.`,
     ],
     techStack: [
-      "JavaScript",
       "ReactJS",
+      "JavaScript",
+      "TypeScript",
       "AWS",
       "Meterial UI",
       "DHTMLX",
@@ -60,16 +57,11 @@ back-end and RDS is used for handling DB related Tasks.`,
     end: "Dec 2021",
     location: "Bengaluru, Karnataka",
     rolesAndResponsibility: [
-      `Work with a variety of JavaScript tools, technologies, and frameworks such as
-React/Redux/Hooks/REST APIs.`,
-      `HTML5, CSS3, Bootstrap, and JavaScript were used to design and construct responsive websites for
-pharmaceutical companies`,
-      `iPad Detailing (iDetailing) is used by Medical Representative. It makes detailing easier for sales
-associates, provides enormous possibilities for marketing to present the content with inclusions of
-infographics, animated charts, pop ups and many more.`,
-      `Medical Representatives use email to advertise drugs. It is primarily designed for email clients such as
-Outlook and Gmail. Testing browser compatibility across many platforms, including Gmail, Outlook,
-Chrome, and Safari`,
+      `Strong experience with Javascript Expert knowledge of modern HTML5 and CSS3 frameworks and at
+least one framework such as Bootstrap`,
+      `Developed responsive and user-friendly web pages using HTML5, CSS3, Bootstrap and JavaScript`,
+      `Implemented pixel-perfect UI designs ensuring cross-browser and cross-device compatibility.`,
+      `Collaborated with designers to convert wireframes and mockups into functional interfaces.`,
     ],
     techStack: ["JavaScript", "HTML5", "CSS3", "Bootstrap"],
   },
